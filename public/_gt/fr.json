@@ -1,0 +1,297 @@
+{
+  "1ae1bfebed952001": "Réservation de vols | General Translation",
+  "60baf04f836b62aa": "Il s'agit d'une application exemple. Ces vols ne sont pas réels.",
+  "653cb8d8e152cb8d": [
+    {
+      "c": [
+        {
+          "c": {
+            "i": 3,
+            "k": "_gt_value_3",
+            "v": "v"
+          },
+          "i": 2,
+          "t": "span"
+        },
+        {
+          "c": {
+            "d": {
+              "b": {
+                "business": "Business",
+                "economy": "Économique",
+                "first": "Première classe"
+              },
+              "t": "b"
+            },
+            "i": 5,
+            "t": "Branch"
+          },
+          "i": 4,
+          "t": "span"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": {
+                "i": 9,
+                "k": "_gt_date_9",
+                "v": "d"
+              },
+              "i": 8,
+              "t": "p"
+            },
+            {
+              "c": {
+                "i": 11,
+                "k": "_gt_value_11",
+                "v": "v"
+              },
+              "i": 10,
+              "t": "p"
+            },
+            {
+              "c": {
+                "i": 13,
+                "k": "_gt_value_13",
+                "v": "v"
+              },
+              "i": 12,
+              "t": "p"
+            }
+          ],
+          "i": 7,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "i": 16,
+                  "k": "_gt_n_16",
+                  "v": "n"
+                },
+                "h ",
+                {
+                  "i": 17,
+                  "k": "_gt_n_17",
+                  "v": "n"
+                },
+                "m"
+              ],
+              "i": 15,
+              "t": "p"
+            },
+            {
+              "i": 18,
+              "t": "div"
+            },
+            {
+              "c": {
+                "d": {
+                  "b": {
+                    "many": {
+                      "c": [
+                        {
+                          "i": 22,
+                          "k": "_gt_n_22",
+                          "v": "n"
+                        },
+                        " arrêts"
+                      ],
+                      "i": 21,
+                      "t": "C21"
+                    },
+                    "other": {
+                      "c": [
+                        {
+                          "i": 22,
+                          "k": "_gt_n_22",
+                          "v": "n"
+                        },
+                        " arrêts"
+                      ],
+                      "i": 21,
+                      "t": "C21"
+                    },
+                    "plural": {
+                      "c": [
+                        {
+                          "i": 22,
+                          "k": "_gt_n_22",
+                          "v": "n"
+                        },
+                        " arrêts"
+                      ],
+                      "i": 21,
+                      "t": "C21"
+                    },
+                    "singular": {
+                      "c": [
+                        {
+                          "i": 22,
+                          "k": "_gt_n_22",
+                          "v": "n"
+                        },
+                        " arrêt"
+                      ],
+                      "i": 21,
+                      "t": "C21"
+                    },
+                    "zero": "Sans escale"
+                  },
+                  "t": "p"
+                },
+                "i": 20,
+                "t": "Plural"
+              },
+              "i": 19,
+              "t": "p"
+            }
+          ],
+          "i": 14,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": {
+                "i": 23,
+                "k": "_gt_date_23",
+                "v": "d"
+              },
+              "i": 22,
+              "t": "p"
+            },
+            {
+              "c": {
+                "i": 25,
+                "k": "_gt_value_25",
+                "v": "v"
+              },
+              "i": 24,
+              "t": "p"
+            },
+            {
+              "c": {
+                "i": 27,
+                "k": "_gt_value_27",
+                "v": "v"
+              },
+              "i": 26,
+              "t": "p"
+            }
+          ],
+          "i": 21,
+          "t": "div"
+        }
+      ],
+      "i": 6,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": {
+            "i": 30,
+            "k": "_gt_date_30",
+            "v": "d"
+          },
+          "i": 29,
+          "t": "p"
+        },
+        {
+          "c": {
+            "i": 32,
+            "k": "_gt_cost_32",
+            "v": "c"
+          },
+          "i": 31,
+          "t": "p"
+        }
+      ],
+      "i": 28,
+      "t": "div"
+    }
+  ],
+  "887d89ffa252b7b1": "Résultats de recherche de vols",
+  "8dfecddca027894d": "Recherchez des vols avec une expérience d’internationalisation optimisée par General Translation.",
+  "9ea24869c672003d": "Conçu avec General Translation",
+  "bb189f4bb675c6c9": [
+    "Traduction générale ",
+    {
+      "c": "/",
+      "i": 1,
+      "t": "span"
+    },
+    " ",
+    {
+      "c": "Réservation de vol",
+      "i": 2,
+      "t": "span"
+    }
+  ],
+  "c11facc045f88fab": {
+    "d": {
+      "b": {
+        "many": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " vols trouvés"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "other": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " vols trouvés"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "plural": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " vols trouvés"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " vol trouvé"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  }
+}
