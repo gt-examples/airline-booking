@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Airline Booking
+
+A multilingual airline flight search interface built with Next.js and General Translation.
+
+**[Live Demo](https://airline-booking.generaltranslation.dev)** | **[General Translation Docs](https://generaltranslation.com/docs)**
+
+## About
+
+This example app demonstrates a flight search results page with locale-aware formatting for currencies, dates, times, durations, and pluralization. It showcases how GT handles complex real-world UI patterns like flight cards with multiple formatted values.
+
+## GT Features Used
+
+- `<T>` — JSX translation (wide wrapping pattern)
+- `<Currency>` — Locale-aware currency formatting
+- `<Num>` — Number formatting
+- `<DateTime>` — Date/time formatting
+- `<Plural>` — Pluralization (flight counts, stops)
+- `<Branch>` — Conditional rendering (fare class labels)
+- `<Var>` — Dynamic values within translations
+- `<LocaleSelector>` — Language picker
+- `getGT` — String translations (metadata)
+- `loadTranslations` — Local translation storage
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+git clone https://github.com/gt-examples/airline-booking.git
+cd airline-booking
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Built With
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Next.js](https://nextjs.org)
+- [General Translation](https://generaltranslation.com) (gt-next)
+- [Tailwind CSS](https://tailwindcss.com)
